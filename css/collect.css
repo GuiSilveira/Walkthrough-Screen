@@ -1,0 +1,22 @@
+.bola-pequena {
+    left: 11rem;
+    top: 11rem;
+    width: 6rem;
+    height: 6rem;
+    background-color: var(--rosa-bola-menor);
+}
+
+.bola-grande {
+    top: 21rem;
+    left: 6rem;
+    background-color: var(--rosa-bola-maior);
+}
+
+ul .botoes.ativo {
+    background: var(--cinza-claro);
+    width: 2rem;
+}
+
+.btn {
+    background-color: var(--rosa);
+}
