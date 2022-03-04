@@ -1,22 +1,17 @@
-.bola-pequena {
-    left: 6rem;
-    top: 9.6rem;
-    width: 6.5rem;
-    height: 6.5rem;
-    background-color: var(--azul-bola-menor);
+.little-circle {
+  left: 6rem;
+  top: 9.6rem;
+  width: 6.5rem;
+  height: 6.5rem;
+  background-color: var(--azul-bola-menor);
 }
 
-.bola-grande {
-    top: 28rem;
-    left: -8rem;
-    background-color: var(--azul-bola-maior);
-}
-
-ul .botoes.ativo {
-    background: var(--cinza-claro);
-    width: 2rem;
+.big-circle {
+  top: 28rem;
+  left: -8rem;
+  background-color: var(--azul-bola-maior);
 }
 
 .btn {
-    background-color: var(--azul-escuro);
+  background-color: var(--azul-escuro);
 }
