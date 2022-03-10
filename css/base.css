@@ -100,8 +100,21 @@ ul .btns.active {
 }
 
 @media (min-width: 1024px) {
+  html {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #c1e4eb;
+  }
+
+  body {
+    background-color: white;
+    z-index: -2;
+  }
+
   .container {
     max-width: 375px;
-    margin: 0 auto;
+    max-height: 812px;
   }
 }
